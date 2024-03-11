@@ -1,4 +1,4 @@
-<h1>ROSGen</h1>
+<h1>Konva tool</h1>
 </ul><h2>Usage</h2> <hr>
 <ul>
 <li>Select the desired tool on the left bar.</li>
@@ -30,14 +30,4 @@
 <li>Add Actions</li>
 </ul><ul>
 <li>Custom topic types</li>
-</ul><h2>Acknowledgement</h2>
-<hr><ul>
-<li>This project was inspired by the rqt_graph visualization plugin and VPL's.</li>
-</ul><h2>Contact</h2>
-<hr><p><span style="margin-right: 30px;"></span>
-<!-- <a href="https://www.linkedin.com/in/francisco-barrag%C3%A1n-castro-726b221a3/"><img style="width: 10%;" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> -->
-<!-- <span style="margin-right: 30px;"> -->
-<p>
-Any issues / suggestions / comments / questions, please contact me at
-</p>
-</span><a href="https://github.com/FranciscoBarCa"><img style="width: 10%;" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a></p>
+</ul>
